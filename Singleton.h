@@ -1,8 +1,7 @@
 //
 //  Singleton.h
-//  WeiLiaoHD
 //
-//  Created by 王钱宝 on 16/2/15.
+//  Created by Ellmcz on 16/2/15.
 //  Copyright © 2016年 ellmcz. All rights reserved.
 //
 #define Singleton_h(name)   + (instancetype)shared##name;
